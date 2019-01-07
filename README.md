@@ -1,5 +1,7 @@
 # kerberos-timer
-Fill in connection information in `src/test/java/com/test/KerberosTimerTest.java` file.
+Fill in connection information in `src/test/java/com/test/KerberosTimerTest.java`.
+
+Provide Kerberos configuration for your domain in `src/test/resources/krb5.conf`.
 
 Run in your favorite IDE or with
 
